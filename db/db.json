@@ -106,16 +106,6 @@
       "id": 2
     },
     {
-      "name": "João Victor Sabino Souto",
-      "meat": "Picanha",
-      "bread": "Integral",
-      "optionals": [
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
       "name": "Reflix",
       "meat": "Picanha",
       "bread": "Parmesão e Orégano",
@@ -124,52 +114,19 @@
         "Salame",
         "Cheddar"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 4
     },
     {
-      "name": "João Victor ",
-      "meat": "Alcatra",
-      "bread": "Parmesão e Orégano",
-      "optionals": [
-        "Bacon",
-        "Salame",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 5
-    },
-    {
-      "name": "Reflix",
-      "meat": "Alcatra",
+      "name": "Pedro",
+      "meat": "Picanha",
       "bread": "3 Queijos",
       "optionals": [
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 6
-    },
-    {
-      "name": "LUCILEIA M SABINO",
-      "meat": "Picanha",
-      "bread": "Integral",
-      "optionals": [
         "Bacon",
-        "Tomate"
+        "Pepino"
       ],
       "status": "Solicitado",
-      "id": 7
-    },
-    {
-      "name": "João Victor ",
-      "meat": "Picanha",
-      "bread": "Italiano Branco",
-      "optionals": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 8
+      "id": 9
     }
   ]
 }

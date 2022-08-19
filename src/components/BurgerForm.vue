@@ -77,7 +77,6 @@ export default {
             });
             const res = await req.json();
             // System Message
-
             this.msg = `Pedido N.º${res.id} realizado com sucesso`
             // Clear Message
             setTimeout(() =>
