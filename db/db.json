@@ -90,20 +90,8 @@
         "Bacon",
         "Tomate"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 1
-    },
-    {
-      "name": "João Pedro Peres",
-      "meat": "Veggie burger",
-      "bread": "Integral",
-      "optionals": [
-        "Bacon",
-        "Tomate",
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 2
     },
     {
       "name": "Reflix",
@@ -127,6 +115,18 @@
       ],
       "status": "Solicitado",
       "id": 9
+    },
+    {
+      "name": "João Victor Sabino Souto",
+      "meat": "Alcatra",
+      "bread": "Pão Australiano",
+      "optionals": [
+        "Bacon",
+        "Tomate",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 10
     }
   ]
 }
